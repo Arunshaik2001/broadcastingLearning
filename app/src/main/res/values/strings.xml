@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_unique">com.example.myApplication.ACTION_SEND</string>
+</resources>
